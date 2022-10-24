@@ -113,6 +113,7 @@ jck.env.runtime.testExecute.classpath=command line option
 jck.env.runtime.testExecute.classpathEnv=CLASSPATH
 jck.env.runtime.testExecute.classpathOpt=-classpath \#
 # jck.env.runtime.testExecute.cmdAsFile example: /home/user/jdk10/jre/bin/java
+jck.env.runtime.testExecute.cmdAsString=will_be_set_by_test_automation_at_run_time
 jck.env.runtime.testExecute.cmdAsFile=will_be_set_by_test_automation_at_run_time
 jck.env.runtime.testExecute.jarExecution=Yes
 jck.env.runtime.testExecute.jarExecutionOpt=-jar \#
